@@ -1,0 +1,6 @@
+pyautogui
+opencv-python
+numpy
+Pillow
+pytesseract
+tabulate
